@@ -49,30 +49,32 @@ This section includes:
             *   [Functions](https://www.w3schools.com/python/python_functions.asp)
             *   [Classes and Object Oriented Programming](https://www.w3schools.com/python/python_classes.asp)
 *   **Git** resources for students with **no prior experience in git / github**
-    *   (Optional) [What is Version Control, Git, and GitHub? + some Git terminology](https://guides.github.com/introduction/git-handbook/) [*we will go more into depth about Git commands and topics covered here in the newt bullets*]
-    *   [Create a GitHub Account](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+    *   (Optional) [**What is Version Control, Git, and GitHub? + some Git terminology**](https://guides.github.com/introduction/git-handbook/) [*we will go more into depth about Git commands and topics covered here in the newt bullets*]
+    *   [**Create a GitHub Account**](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
         *    *Ignore the “SSH Access” section for now. Feel free to come back to it after reading through the Linux Terminal/Command Prompt bullet.*
         *    *__Setting up SSH is prefered__. If you don’t set it up, you will have to enter your GitHub username and password every time you want to push to GitHub, which is pretty time consuming.*
-    *   Installing Git
+    *   **Installing Git**
         *    [For Mac OS](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md0)
         *    [For Linux](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md)
         *    [For Windows](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/) [*you will be using an application called __Git Bash__ instead of the built in Windows Command Prompt*]
-    *   How to navigate the Linux Terminal / Git Bash
+    *   **How to navigate the Linux Terminal / Git Bash**
         *    [For Mac OS Users](https://support.apple.com/en-ca/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac) [*Select your MacOS version, select “Table of Contents” and read the sections under “Work in Terminal Windows”*]
         *    [For Linux Users](https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal) [*Start from the “Opening a Terminal” section. You can just skim through to get an idea of the commands.*]
         *    For Windows Users [*Git Bash allows Windows users to use Linux Terminal commands on the Git Bash terminal, so feel free to read through the bullets for Linux and Mac users as well*]
              *    1: Open Git Bash (either by searching for it or using a shortcut if you’ve created one)
              *    2: [Learn these basic terminal commands](https://www.redhat.com/sysadmin/basic-linux-commands)
         *   [List of Git Commands](https://git-scm.com/docs)
-    *   [How to create a git repository / “repo” (like a big, shared folder for your project)](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) [*Ignore the “Commit Your First Change” Section. Instead, follow the instructions in “How to “clone” your repository”*]
-    *   How to add people to your repository
+    *   [**How to create a git repository / “repo”** (like a big, shared folder for your project)](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) [*Ignore the “Commit Your First Change” Section. Instead, follow the instructions in “How to “clone” your repository”*]
+    *   **How to add people to your repository**
         *   [For the owner of the repository](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
         *   For the collaborators:
             *    1: Accept the owner’s invitation [*you should get an email in the email address associated with your GitHub account*]
             *    2: Clone the repository you were invited to [*follow instructions in the next bullet point*]
-        *    [How to “clone” your repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) [*You can ignore the section about “Cloning to GitHub Desktop”*]
-        *    (Optional) [GitHub Desktop](https://github.blog/2019-10-02-get-started-easier-with-github-desktop-2-2/) [*Git is an important skill to learn for any Software Developer to learn; however, if you are struggling with all the commands and terminology of the Command Line, GitHub Desktop is a tool created to help you use Git without typing a single command*]
-
+    *    [**How to “clone” your repository**](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) [*You can ignore the section about “Cloning to GitHub Desktop”*]
+    *    (Optional) [**GitHub Desktop**](https://github.blog/2019-10-02-get-started-easier-with-github-desktop-2-2/) [*Git is an important skill to learn for any Software Developer to learn; however, if you are struggling with all the commands and terminology of the Command Line, GitHub Desktop is a tool created to help you use Git without typing a single command*]
+*    **Git Workflow** (adding your code changes to GitHub)
+     *    (Optional) [What is branching in Git](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=A%20branch%20in%20Git%20is,to%20one%20of%20these%20commits.&text=As%20you%20start%20making%20commits,is%20not%20a%20special%20branch.)
+     *    [Pushing your changes to GitHub](https://jameschambers.co/git-team-workflow-cheatsheet/)
 
 # Part 2: Next Steps for Python & Fun Libraries!
 
