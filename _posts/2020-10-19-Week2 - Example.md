@@ -100,6 +100,5 @@ Below you should see a shader, if this worked properly:
         sandbox.load(frag_code);
         document.getElementById("put-canvas-here").appendChild(canvas);
     </script>
-</canvas>
 </div>
 
