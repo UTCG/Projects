@@ -69,5 +69,12 @@ Here's an image:
 
 ![logo](../images/logo.jpg)
 
-<canvas class="glslCanvas" data-fragment-url=“../scripts/test_shader.frag" data-textures=“yourInputImage.png” width="500" height="500"></canvas>
+#### Trying to add some html
+
+Below you should see a shader, if this worked properly:
+
+<div>
+<canvas class="glslCanvas" data-fragment-url=“../scripts/test_shader.frag" width="500" height="500">
+</canvas>
+</div>
 
