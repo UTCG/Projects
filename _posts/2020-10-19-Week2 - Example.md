@@ -69,3 +69,5 @@ Here's an image:
 
 ![logo](../images/logo.jpg)
 
+<canvas class="glslCanvas" data-fragment-url=“../scripts/test_shader.frag" data-textures=“yourInputImage.png” width="500" height="500"></canvas>
+
