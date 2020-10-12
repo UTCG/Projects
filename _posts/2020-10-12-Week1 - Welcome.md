@@ -1,3 +1,5 @@
+Here's the first week's UTCG Projects learner track post! I think this text should show up on the homepage as an excerpt.
+
 # Welcome!
 
 Hello Learners! Welcome to the very first week of UTCG Projects. The UTCG Execs and Mentors are very excited to work with you all! The theme for our first week of learner content revolves around **Python and Git**. These are two very versatile technologies that can help you in creating your projects.
@@ -11,7 +13,7 @@ The curriculum is optional to complete on your own time, but we strongly recomme
 
 This year, we have lots of beginners who are new to programming, or have a little bit of experience from classes. Python and Git are two very popular tools for programming and developing collaborative projects. Here are descriptions of both and why we want to use them for this week and throughout the term.
 
-**Python: **Is a very easy-to-learn and versatile programming language that allows for quick development. Some benefits include:
+**Python:** Is a very easy-to-learn and versatile programming language that allows for quick development. Some benefits include:
 
 *   Taught in CSC108 and CSC148 (Beginner Computer Science Courses)
 *   Syntax (ordering of letters and words in the language) is simple to learn and use
