@@ -1,4 +1,4 @@
-Here's the first week's UTCG Projects learner track post! I think this text should show up on the homepage as an excerpt.
+Here's the first week's UTCG Projects learner track post!
 
 # Welcome!
 
