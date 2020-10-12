@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to the UTCG Projects Curriculum!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Here, you will see lessons offered by UTCG Projects uploaded weekly or bi-weekly.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[utcomputergraphics@gmail.com](mailto:utcomputergraphics@gmail.com)
+[utcg.club/](https://utcg.club/)
