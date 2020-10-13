@@ -32,7 +32,7 @@ This year, we have lots of beginners who are new to programming, or have a littl
 This section includes:
 
 *   **Installation**
-  *   [How to Install Python](https://realpython.com/installing-python/)
+    *   [How to Install Python](https://realpython.com/installing-python/)
     *   [How to Edit Python programs:  Choosing an IDE/ or Code Editor](https://skillcrush.com/blog/python-ide-code-editor/)
     *   [How to Install and use Git for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 *   **Python** Resources for students with \*\*no prior programming\*\*experience
