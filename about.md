@@ -12,5 +12,5 @@ Here, you will see lessons offered by UTCG Projects uploaded weekly or bi-weekly
 
 ### Contact me
 
-[utcomputergraphics@gmail.com](mailto:utcomputergraphics@gmail.com)
-[utcg.club/](https://utcg.club/)
+*    [utcomputergraphics@gmail.com](mailto:utcomputergraphics@gmail.com)
+*    [utcg.club/](https://utcg.club/)
