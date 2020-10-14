@@ -6,7 +6,7 @@ Hello Learners! Welcome to the very first week of UTCG Projects. The UTCG Execs 
 
 Our role as Execs and Mentors is to collect different helpful resources of information, like tutorials, documentation, and guides that can help you develop your projects. Each week, UTCG Projects will have a different theme/topic, where we focus on teaching you different concepts that can help you develop your projects. **We accept suggestions for different themes!** Some theme examples may include **3d Modelling/Sculpting using Blender, Web Design, the Graphics Pipeline**, **Game Design**, and much more!
 
-The curriculum is optional to complete on your own time, but we strongly recommend you read this entire handout and see what is available for you and your team. We also strongly recommend you work through the resources together, and **ask each other for help!**The mentors are also available to help and provide general advice**.
+The curriculum is optional to complete on your own time, but we strongly recommend you read this entire handout and see what is available for you and your team. We also strongly recommend you work through the resources together, and **ask each other for help!** The mentors are also available to help and provide general advice.
 
 
 # Why Python and Git?
@@ -18,7 +18,7 @@ This year, we have lots of beginners who are new to programming, or have a littl
 *   Taught in CSC108 and CSC148 (Beginner Computer Science Courses)
 *   Syntax (ordering of letters and words in the language) is simple to learn and use
 *   Very popular for scripting, which means you can automate lots of 3D modelling programs with Python
-*   Many Libraries like OpenCV (Computer Vision), Tkinkter, NumPy (working with lots of data points and math), Django (web development), and many more!
+*   Many Libraries like OpenCV (Computer Vision), NumPy (working with lots of data points and math), Flask (web development) Tkinkter (making interfaces like windows and buttons), and many more!
 
 **Git:** Git is a technology that allows for collaboration within your team, and version control. Git is useful for:
 
