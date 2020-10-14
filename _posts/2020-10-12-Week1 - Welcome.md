@@ -6,7 +6,7 @@ Hello Learners! Welcome to the very first week of UTCG Projects. The UTCG Execs 
 
 Our role as Execs and Mentors is to collect different helpful resources of information, like tutorials, documentation, and guides that can help you develop your projects. Each week, UTCG Projects will have a different theme/topic, where we focus on teaching you different concepts that can help you develop your projects. **We accept suggestions for different themes!** Some theme examples may include **3d Modelling/Sculpting using Blender, Web Design, the Graphics Pipeline**, **Game Design**, and much more!
 
-The curriculum is optional to complete on your own time, but we strongly recommend you read this entire handout and see what is available for you and your team. We also strongly recommend you work through the resources together, and** ask each other for help! **The mentors are also available to help and provide general advice**.
+The curriculum is optional to complete on your own time, but we strongly recommend you read this entire handout and see what is available for you and your team. We also strongly recommend you work through the resources together, and **ask each other for help!**The mentors are also available to help and provide general advice**.
 
 
 # Why Python and Git?
@@ -35,11 +35,11 @@ This section includes:
     *   [How to Install Python](https://realpython.com/installing-python/)
     *   [How to Edit Python programs:  Choosing an IDE/ or Code Editor](https://skillcrush.com/blog/python-ide-code-editor/)
     *   [How to Install and use Git for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-*   **Python** Resources for students with \*\*no prior programming\*\*experience
+*   **Python** Resources for students with **no prior programming** experience
     *   <u>We strongly recommend new coders learn all of these Python concepts! If you are comfortable with these concepts, feel free to skip this section.</u>
     *   For this section, [w3schools](https://www.w3schools.com/python/python_intro.asp) is an amazing and quick resource to learn many programming languages! Follow as many python lessons as you can.  
     *   We recommend starting from the [“Intro”](https://www.w3schools.com/python/python_intro.asp) and doing as many lessons until “[Python Classes/Objects”](https://www.w3schools.com/python/python_classes.asp)
-        *   Be sure you are familiar \*\*at least\*\* with these concepts by the end:
+        *   Be sure you are familiar **at least** with these concepts by the end:
             *   [Variables](https://www.w3schools.com/python/python_variables.asp) and [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
             *   [Operators](https://www.w3schools.com/python/python_operators.asp) (Arithmetic & Comparison Operators)
             *   [If / Else statements](https://www.w3schools.com/python/python_conditions.asp)
@@ -82,19 +82,14 @@ This section includes resources and descriptions of Python Libraries. “Librari
 
 *   **OpenCV:** If you want to process images, apply filters, and use computer vision techniques.
 *   **NumPy:** You will often encounter huge sets of data points in computer graphics, and it’s useful to manage all of them. NumPy is one of the most popular and useful Python libraries for managing huge sets of data points by using arrays and matrices.
-*   **Tkinkter:** Helpful for creating User Interfaces (think of windows, buttons, etc) for your program.
 
 Here are some additional libraries you can look up! (Not required for week 1 but you might be interested!)
-
-*   **Django:** A Web framework used to easily create websites 
+*   **Tkinkter:** Helpful for creating User Interfaces (think of windows, buttons, etc) for your program.
+*   **Flask:** A Web framework used to easily create websites 
 *   **PyTorch:** The largest machine learning library that allows developers to perform tensor computations with acceleration of GPU, creates dynamic computational graphs, and calculate gradients automatically.
 *   **Scipy:** An open-source python library that is used for both scientific and technical computation. It is also very popular for image manipulation, as well.
 
 Let’s get started with a couple of tutorials! There is no need to try all of them, but we recommend choosing a few that may be beneficial to your interests or your project.
-
-
-### Tkinkter
-
 
 ### OpenCV
 
